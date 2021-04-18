@@ -1,0 +1,11 @@
+MONTHNAME(factura_venta.fecha);SUM(precioTotal)
+January;30137000
+February;35680500
+March;17853500
+June;10371000
+July;12128500
+August;10887700
+September;16137600
+October;19844000
+November;17131500
+December;32444500
